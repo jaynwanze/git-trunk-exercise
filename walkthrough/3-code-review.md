@@ -48,3 +48,4 @@ Next we will walk through the process of fetching the latest changes locally.
 - [Readme](../readme.md)
 - [1. Setup](1-setup.md)
 - [2. Feature Branches](2-feature-branches.md)
+- [4. Fetching Latest](4-fetching-latest.md)

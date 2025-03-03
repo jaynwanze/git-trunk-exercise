@@ -170,3 +170,4 @@ Next we will walk through the process of reviewing a Pull Request, viewing someo
 - [Readme](../readme.md)
 - [1. Setup](1-setup.md)
 - [3. Code Review](3-code-review.md)
+- [4. Fetching Latest](4-fetching-latest.md)
