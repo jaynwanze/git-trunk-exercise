@@ -26,7 +26,6 @@ Please leave this repository open in a browser tab so that you can follow along 
 
 ### Project Structure
 * Application code can be found in the [`/app/`](/app/) folder.
-* The application contains a file named [`VERSION`](/app/VERSION) that contains the major, minor, and patch numbers for the project.
 * Source files are written in markdown and can be identified by the `.md` file extension.
 
 ## Next
