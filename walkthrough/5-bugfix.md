@@ -11,7 +11,7 @@ This morning the project manager received a frantic call from the EIC of _Flavor
 
 Follow along with the activities below to walk through the process of creating a bugfix branch, then merging the bugfix into both `main` branch.
 
-### 1 - Create the Hotfix Branch
+### 1 - Create the Bugfix Branch
 
 __One Team Member__
 

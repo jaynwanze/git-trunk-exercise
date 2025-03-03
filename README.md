@@ -40,4 +40,4 @@ Next we will walk through the process of creating a GitHub Fork and local clone 
 - [2. Feature Branches](/walkthrough/2-feature-branches.md)
 - [3. Code Review](/walkthrough/3-code-review.md)
 - [4. Fetching Latest](/walkthrough/4-fetching-latest.md)
-- [5. Bugfix](5-bugfix.md)
+- [5. Bugfix](/walkthrough/5-bugfix.md)
