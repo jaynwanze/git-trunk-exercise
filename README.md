@@ -21,3 +21,18 @@ Your team is made up of two or three developers. Each of you will contribute new
 ### Follow Along
 
 Please leave this repository open in a browser tab so that you can follow along with the activities without referring to the presenter's screen.
+
+### Project Structure
+* Application code can be found in the [`/app/`](/app/) folder.
+* The application contains a file named [`VERSION`](/app/VERSION) that contains the major, minor, and patch numbers for the project.
+* Source files are written in markdown and can be identified by the `.md` file extension.
+
+## Next
+
+Next we will walk through the process of creating a GitHub Fork and local clone of this repository.
+
+[Go](/walkthrough/1-setup.md)
+
+## Quick Links
+
+- [1. Setup](/walkthrough/1-setup.md)
