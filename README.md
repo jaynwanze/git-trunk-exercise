@@ -1,6 +1,8 @@
 # Trunk-based Branching Exercise
 
-An exercise for learning the [Trunk-based development model](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development). This exercise will walk your team through adding features to an example application.
+An exercise for learning the [Trunk-based development model](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development). This exercise will walk your team through adding features to an example application. 
+
+Read the instructions for each stage carefully. If you're not sure what the instructions mean stop and take time to understand them. __If you rush into running Git commands you'll make mistakes and they can be difficult to undo.__  
 
 ## Scenario
 
@@ -36,3 +38,4 @@ Next we will walk through the process of creating a GitHub Fork and local clone 
 ## Quick Links
 
 - [1. Setup](/walkthrough/1-setup.md)
+- [2. Feature Branches](/walkthrough/2-feature-branches.md)

@@ -55,3 +55,4 @@ Next we will walk through the process of creating feature branches, publishing c
 ## Quick Links
 
 - [Readme](../readme.md)
+- [2. Feature Branches](2-feature-branches.md)
