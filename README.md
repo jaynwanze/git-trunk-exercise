@@ -39,3 +39,4 @@ Next we will walk through the process of creating a GitHub Fork and local clone 
 
 - [1. Setup](/walkthrough/1-setup.md)
 - [2. Feature Branches](/walkthrough/2-feature-branches.md)
+- [3. Code Review](/walkthrough/3-code-review.md)
