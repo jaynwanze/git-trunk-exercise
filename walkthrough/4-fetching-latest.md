@@ -25,9 +25,9 @@ $ git log
 
 ## Next
 
-Next we will walk through the process of applying a hotfix to the code in production.
+Next we will walk through the process of applying a bugfix to the code in production.
 
-[Go](5-hotfix.md)
+[Go](5-bugfix.md)
 
 
 ## Quick Links
@@ -36,3 +36,4 @@ Next we will walk through the process of applying a hotfix to the code in produc
 - [1. Setup](1-setup.md)
 - [2. Feature Branches](2-feature-branches.md)
 - [3. Code Review](3-code-review.md)
+- [5. Bugfix](5-bugfix.md)

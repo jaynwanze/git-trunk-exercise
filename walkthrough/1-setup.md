@@ -58,3 +58,4 @@ Next we will walk through the process of creating feature branches, publishing c
 - [2. Feature Branches](2-feature-branches.md)
 - [3. Code Review](3-code-review.md)
 - [4. Fetching Latest](4-fetching-latest.md)
+- [5. Bugfix](5-bugfix.md)
